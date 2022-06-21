@@ -1,2 +1,2 @@
-# Code-Snippets
-Working 'How-To' code snippets in various programming environment for educational use.
+# Code-Compendium
+Working 'How-To' scripts in various domains.
